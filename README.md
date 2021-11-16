@@ -5,7 +5,7 @@ Notebooks contain the explanation of ML concept (from the book [Hands-On Machine
 **Feel free to fork and update the contents if you find any mistakes or incomplete information or if you want to contribute new chapters.**
 
 - 1st chapter is not included
-- Theories are not described for chapter 2, from chapter 2 on all the theories with code are included
+- Theories are not included from chapter 2.
 - Completed up to first part of the book (8 chapters), Neural Networks chapters still to be done
 
 **Note:** Single image may repeat in GitHub preview but will show correctly after cloning on local.
